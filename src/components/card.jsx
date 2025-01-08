@@ -130,7 +130,6 @@ export function Card(){
             rating:"★★★☆☆",
             type:"Drama",
         },
-        // ...other cards
     ];
     return(
         <div className="flex justify-center gap-4 flex-wrap pt-4 sm:bg-gray-600 md:bg-orange-300 lg:bg-yellow-200 xl:bg-white small:bg-black">
